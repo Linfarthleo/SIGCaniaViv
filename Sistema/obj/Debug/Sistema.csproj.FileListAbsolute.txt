@@ -1,0 +1,509 @@
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\bin\Debug\Sistema.exe.config
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\bin\Debug\Sistema.exe
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\bin\Debug\Sistema.pdb
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\obj\Debug\Sistema.Login.resources
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\obj\Debug\Sistema.exe
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\obj\Debug\Sistema.pdb
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\bin\Debug\Guna.UI2.dll
+H:\EPN\Fundamentos\Sistema\Sistema\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\bin\Debug\Sistema.exe.config
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\bin\Debug\Sistema.exe
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\bin\Debug\Sistema.pdb
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.Login.resources
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.exe
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.pdb
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Sistema.exe.config
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Sistema.exe
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Sistema.pdb
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Guna.UI2.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Login.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Menu.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.exe
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.pdb
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Clientes.resources
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Clientes.resources
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.Menu.resources
+X:\Proyectos\Proyecto Fund Ing Soft\Sistema-CV\Sistema\obj\Debug\Sistema.Form_Nuevo_Cliente.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Sistema.exe
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_Nuevo_Cliente.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Clientes.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Facturacion.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Pedidos.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Ventas.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Login.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Menu.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.exe
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.pdb
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Form_Nuevo_Cliente.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Facturacion.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Pedidos.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Ventas.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Form_registrarCantidadDeAlcohol.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Form_registrarFechaDeSiembra.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Produccion.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.Licensing.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.exe.licenses
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Empleados.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Administracion.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.AdministraciónSistema.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.ListaUsuarios.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Usuario.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Auditoria.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Parametros.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\BouncyCastle.Crypto.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\K4os.Hash.xxHash.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\MySql.Data.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\System.Buffers.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\System.Memory.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\System.Numerics.Vectors.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Ubiety.Dns.Core.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Zstandard.Net.dll
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.pdb
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\K4os.Hash.xxHash.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\MySql.Data.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\System.Buffers.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\System.Memory.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\System.Numerics.Vectors.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Form_editarCantidadAlcohol.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Form_eliminarAlcohol.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Form_iDAlcohol.resources
+H:\EPN\Fundamentos\Sistema-CV\Sistema\obj\Debug\Sistema.Form_iDAlcoholEliminar.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Sistema.exe
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Sistema.pdb
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.Licensing.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\MySql.Data.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\System.Buffers.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\System.Memory.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Zstandard.Net.dll
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.pdb
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\MySql.Data.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\System.Buffers.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\System.Memory.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_editarCantidadAlcohol.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_eliminarAlcohol.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_iDAlcohol.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_iDAlcoholEliminar.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_Nuevo_Cliente.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_registrarCantidadDeAlcohol.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_registrarFechaDeSiembra.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Administracion.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.AdministraciónSistema.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Auditoria.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Clientes.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Empleados.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Facturacion.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.ListaUsuarios.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Parametros.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Pedidos.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Produccion.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Usuario.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Ventas.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Login.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Menu.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.exe.licenses
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.exe
+C:\Users\USUARIO\OneDrive - Escuela Politécnica Nacional\Documentos\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.pdb
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\MySql.Data.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Buffers.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Memory.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Zstandard.Net.dll
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.pdb
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\MySql.Data.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Buffers.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Memory.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_editarCantidadAlcohol.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_eliminarAlcohol.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_iDAlcohol.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_iDAlcoholEliminar.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_registrarCantidadDeAlcohol.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_registrarFechaDeSiembra.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Administracion.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.AdministraciónSistema.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Auditoria.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Empleados.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.ListaUsuarios.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Parametros.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Produccion.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Usuario.resources
+C:\Users\Leonardo\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.exe.licenses
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Sistema.exe
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Sistema.pdb
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.Licensing.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\MySql.Data.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Buffers.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Memory.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.pdb
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\Google.Protobuf.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\MySql.Data.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Buffers.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Memory.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.SuggestedBindingRedirects.cache
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_editarCantidadAlcohol.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_eliminarAlcohol.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_iDAlcohol.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_iDAlcoholEliminar.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_Nuevo_Cliente.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_registrarCantidadDeAlcohol.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Form_registrarFechaDeSiembra.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Administracion.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.AdministraciónSistema.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Auditoria.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Clientes.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Empleados.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Facturacion.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.ListaUsuarios.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Parametros.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Pedidos.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Produccion.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Usuario.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Ventas.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Login.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Menu.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.exe.licenses
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.exe
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\obj\Debug\Sistema.pdb
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\ZstdNet.dll
+C:\Users\leona\Documents\GitHub\Sistema-CV\Sistema\bin\Debug\BouncyCastle.Crypto.xml
