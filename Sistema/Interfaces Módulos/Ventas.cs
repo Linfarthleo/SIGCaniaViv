@@ -697,5 +697,10 @@ namespace Sistema.Interfaces_Módulos
 
             }
         }
+
+        private void Ventas_FormClosing(object sender, FormClosingEventArgs e)
+        {
+
+        }
     }
 }

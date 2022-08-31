@@ -30,9 +30,9 @@ namespace Sistema.Interfaces_Módulos
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle14 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle15 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Pedidos));
             this.guna2HtmlLabel16 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
@@ -83,22 +83,22 @@ namespace Sistema.Interfaces_Módulos
             // guna2HtmlLabel16
             // 
             this.guna2HtmlLabel16.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel16.Font = new System.Drawing.Font("Raleway", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel16.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel16.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel16.Location = new System.Drawing.Point(671, 7);
             this.guna2HtmlLabel16.Name = "guna2HtmlLabel16";
-            this.guna2HtmlLabel16.Size = new System.Drawing.Size(311, 46);
+            this.guna2HtmlLabel16.Size = new System.Drawing.Size(317, 39);
             this.guna2HtmlLabel16.TabIndex = 10;
             this.guna2HtmlLabel16.Text = "Consulta de Pedidos";
             // 
             // guna2HtmlLabel1
             // 
             this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Raleway", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel1.Location = new System.Drawing.Point(148, 20);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(286, 46);
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(291, 39);
             this.guna2HtmlLabel1.TabIndex = 9;
             this.guna2HtmlLabel1.Text = "Registro de Pedido";
             // 
@@ -119,7 +119,7 @@ namespace Sistema.Interfaces_Módulos
             this.guna2GroupBox3.Controls.Add(this.guna2HtmlLabel12);
             this.guna2GroupBox3.CustomBorderColor = System.Drawing.Color.DarkSlateGray;
             this.guna2GroupBox3.FillColor = System.Drawing.SystemColors.Menu;
-            this.guna2GroupBox3.Font = new System.Drawing.Font("Raleway Black", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2GroupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2GroupBox3.ForeColor = System.Drawing.Color.White;
             this.guna2GroupBox3.Location = new System.Drawing.Point(41, 317);
             this.guna2GroupBox3.Name = "guna2GroupBox3";
@@ -160,11 +160,11 @@ namespace Sistema.Interfaces_Módulos
             // guna2HtmlLabel6
             // 
             this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel6.Font = new System.Drawing.Font("Raleway", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2HtmlLabel6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2HtmlLabel6.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel6.Location = new System.Drawing.Point(58, 190);
             this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
-            this.guna2HtmlLabel6.Size = new System.Drawing.Size(54, 24);
+            this.guna2HtmlLabel6.Size = new System.Drawing.Size(60, 22);
             this.guna2HtmlLabel6.TabIndex = 33;
             this.guna2HtmlLabel6.Text = "Abono:";
             // 
@@ -176,7 +176,7 @@ namespace Sistema.Interfaces_Módulos
             this.btn_CancelarPedidos.CustomImages.Parent = this.btn_CancelarPedidos;
             this.btn_CancelarPedidos.FillColor = System.Drawing.Color.DarkSlateGray;
             this.btn_CancelarPedidos.FillColor2 = System.Drawing.Color.CadetBlue;
-            this.btn_CancelarPedidos.Font = new System.Drawing.Font("Raleway", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.btn_CancelarPedidos.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.btn_CancelarPedidos.ForeColor = System.Drawing.Color.White;
             this.btn_CancelarPedidos.HoverState.Parent = this.btn_CancelarPedidos;
             this.btn_CancelarPedidos.Location = new System.Drawing.Point(357, 233);
@@ -195,7 +195,7 @@ namespace Sistema.Interfaces_Módulos
             this.btn_RegistrarPedidos.CustomImages.Parent = this.btn_RegistrarPedidos;
             this.btn_RegistrarPedidos.FillColor = System.Drawing.Color.DarkSlateGray;
             this.btn_RegistrarPedidos.FillColor2 = System.Drawing.Color.CadetBlue;
-            this.btn_RegistrarPedidos.Font = new System.Drawing.Font("Raleway", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.btn_RegistrarPedidos.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.btn_RegistrarPedidos.ForeColor = System.Drawing.Color.White;
             this.btn_RegistrarPedidos.HoverState.Parent = this.btn_RegistrarPedidos;
             this.btn_RegistrarPedidos.Location = new System.Drawing.Point(213, 233);
@@ -245,7 +245,7 @@ namespace Sistema.Interfaces_Módulos
             this.cantPedidoComboBox.Enabled = false;
             this.cantPedidoComboBox.FocusedColor = System.Drawing.Color.Empty;
             this.cantPedidoComboBox.FocusedState.Parent = this.cantPedidoComboBox;
-            this.cantPedidoComboBox.Font = new System.Drawing.Font("Raleway", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cantPedidoComboBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cantPedidoComboBox.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.cantPedidoComboBox.FormattingEnabled = true;
             this.cantPedidoComboBox.HoverState.Parent = this.cantPedidoComboBox;
@@ -272,7 +272,7 @@ namespace Sistema.Interfaces_Módulos
             this.gradoPedidoComboBox.Enabled = false;
             this.gradoPedidoComboBox.FocusedColor = System.Drawing.Color.Empty;
             this.gradoPedidoComboBox.FocusedState.Parent = this.gradoPedidoComboBox;
-            this.gradoPedidoComboBox.Font = new System.Drawing.Font("Raleway", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gradoPedidoComboBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gradoPedidoComboBox.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.gradoPedidoComboBox.FormattingEnabled = true;
             this.gradoPedidoComboBox.HoverState.Parent = this.gradoPedidoComboBox;
@@ -312,22 +312,22 @@ namespace Sistema.Interfaces_Módulos
             // guna2HtmlLabel18
             // 
             this.guna2HtmlLabel18.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel18.Font = new System.Drawing.Font("Raleway", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2HtmlLabel18.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2HtmlLabel18.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel18.Location = new System.Drawing.Point(57, 149);
             this.guna2HtmlLabel18.Name = "guna2HtmlLabel18";
-            this.guna2HtmlLabel18.Size = new System.Drawing.Size(139, 24);
+            this.guna2HtmlLabel18.Size = new System.Drawing.Size(152, 22);
             this.guna2HtmlLabel18.TabIndex = 24;
             this.guna2HtmlLabel18.Text = "Fecha de Entrega:";
             // 
             // totalPedidoLabel
             // 
             this.totalPedidoLabel.BackColor = System.Drawing.Color.Transparent;
-            this.totalPedidoLabel.Font = new System.Drawing.Font("Raleway", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.totalPedidoLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.totalPedidoLabel.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.totalPedidoLabel.Location = new System.Drawing.Point(133, 242);
             this.totalPedidoLabel.Name = "totalPedidoLabel";
-            this.totalPedidoLabel.Size = new System.Drawing.Size(57, 28);
+            this.totalPedidoLabel.Size = new System.Drawing.Size(69, 26);
             this.totalPedidoLabel.TabIndex = 17;
             this.totalPedidoLabel.Text = "______";
             this.totalPedidoLabel.Click += new System.EventHandler(this.totalPedidoLabel_Click);
@@ -335,33 +335,33 @@ namespace Sistema.Interfaces_Módulos
             // guna2HtmlLabel15
             // 
             this.guna2HtmlLabel15.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel15.Font = new System.Drawing.Font("Raleway", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2HtmlLabel15.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2HtmlLabel15.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel15.Location = new System.Drawing.Point(13, 242);
             this.guna2HtmlLabel15.Name = "guna2HtmlLabel15";
-            this.guna2HtmlLabel15.Size = new System.Drawing.Size(116, 28);
+            this.guna2HtmlLabel15.Size = new System.Drawing.Size(123, 26);
             this.guna2HtmlLabel15.TabIndex = 20;
             this.guna2HtmlLabel15.Text = "Total Abono:";
             // 
             // guna2HtmlLabel13
             // 
             this.guna2HtmlLabel13.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel13.Font = new System.Drawing.Font("Raleway", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2HtmlLabel13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2HtmlLabel13.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel13.Location = new System.Drawing.Point(57, 102);
             this.guna2HtmlLabel13.Name = "guna2HtmlLabel13";
-            this.guna2HtmlLabel13.Size = new System.Drawing.Size(160, 24);
+            this.guna2HtmlLabel13.Size = new System.Drawing.Size(169, 22);
             this.guna2HtmlLabel13.TabIndex = 18;
             this.guna2HtmlLabel13.Text = "Cantidad de Alcohol:";
             // 
             // guna2HtmlLabel12
             // 
             this.guna2HtmlLabel12.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel12.Font = new System.Drawing.Font("Raleway", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2HtmlLabel12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2HtmlLabel12.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel12.Location = new System.Drawing.Point(58, 56);
             this.guna2HtmlLabel12.Name = "guna2HtmlLabel12";
-            this.guna2HtmlLabel12.Size = new System.Drawing.Size(136, 24);
+            this.guna2HtmlLabel12.Size = new System.Drawing.Size(147, 22);
             this.guna2HtmlLabel12.TabIndex = 17;
             this.guna2HtmlLabel12.Text = "Grado de Alcohol:";
             // 
@@ -381,7 +381,7 @@ namespace Sistema.Interfaces_Módulos
             this.guna2GroupBox2.Controls.Add(this.ident1PedidoTexBox);
             this.guna2GroupBox2.CustomBorderColor = System.Drawing.Color.DarkSlateGray;
             this.guna2GroupBox2.FillColor = System.Drawing.SystemColors.Menu;
-            this.guna2GroupBox2.Font = new System.Drawing.Font("Raleway Black", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2GroupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2GroupBox2.ForeColor = System.Drawing.Color.White;
             this.guna2GroupBox2.Location = new System.Drawing.Point(41, 105);
             this.guna2GroupBox2.Name = "guna2GroupBox2";
@@ -410,110 +410,110 @@ namespace Sistema.Interfaces_Módulos
             // celularClientePedidoLabel
             // 
             this.celularClientePedidoLabel.BackColor = System.Drawing.Color.Transparent;
-            this.celularClientePedidoLabel.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.celularClientePedidoLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.celularClientePedidoLabel.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.celularClientePedidoLabel.Location = new System.Drawing.Point(239, 170);
             this.celularClientePedidoLabel.Name = "celularClientePedidoLabel";
-            this.celularClientePedidoLabel.Size = new System.Drawing.Size(143, 23);
+            this.celularClientePedidoLabel.Size = new System.Drawing.Size(183, 20);
             this.celularClientePedidoLabel.TabIndex = 16;
             this.celularClientePedidoLabel.Text = "____________________";
             // 
             // guna2HtmlLabel10
             // 
             this.guna2HtmlLabel10.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel10.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2HtmlLabel10.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2HtmlLabel10.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel10.Location = new System.Drawing.Point(128, 57);
             this.guna2HtmlLabel10.Name = "guna2HtmlLabel10";
-            this.guna2HtmlLabel10.Size = new System.Drawing.Size(61, 23);
+            this.guna2HtmlLabel10.Size = new System.Drawing.Size(65, 20);
             this.guna2HtmlLabel10.TabIndex = 15;
             this.guna2HtmlLabel10.Text = "Cédula :";
             // 
             // correoClientePedidoLabel
             // 
             this.correoClientePedidoLabel.BackColor = System.Drawing.Color.Transparent;
-            this.correoClientePedidoLabel.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.correoClientePedidoLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.correoClientePedidoLabel.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.correoClientePedidoLabel.Location = new System.Drawing.Point(239, 141);
             this.correoClientePedidoLabel.Name = "correoClientePedidoLabel";
-            this.correoClientePedidoLabel.Size = new System.Drawing.Size(143, 23);
+            this.correoClientePedidoLabel.Size = new System.Drawing.Size(183, 20);
             this.correoClientePedidoLabel.TabIndex = 14;
             this.correoClientePedidoLabel.Text = "____________________";
             // 
             // apellidoClientePedidoLabel
             // 
             this.apellidoClientePedidoLabel.BackColor = System.Drawing.Color.Transparent;
-            this.apellidoClientePedidoLabel.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.apellidoClientePedidoLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.apellidoClientePedidoLabel.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.apellidoClientePedidoLabel.Location = new System.Drawing.Point(239, 115);
             this.apellidoClientePedidoLabel.Name = "apellidoClientePedidoLabel";
-            this.apellidoClientePedidoLabel.Size = new System.Drawing.Size(143, 23);
+            this.apellidoClientePedidoLabel.Size = new System.Drawing.Size(183, 20);
             this.apellidoClientePedidoLabel.TabIndex = 13;
             this.apellidoClientePedidoLabel.Text = "____________________";
             // 
             // nombreClientePedidoLabel
             // 
             this.nombreClientePedidoLabel.BackColor = System.Drawing.Color.Transparent;
-            this.nombreClientePedidoLabel.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.nombreClientePedidoLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.nombreClientePedidoLabel.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.nombreClientePedidoLabel.Location = new System.Drawing.Point(239, 86);
             this.nombreClientePedidoLabel.Name = "nombreClientePedidoLabel";
-            this.nombreClientePedidoLabel.Size = new System.Drawing.Size(143, 23);
+            this.nombreClientePedidoLabel.Size = new System.Drawing.Size(183, 20);
             this.nombreClientePedidoLabel.TabIndex = 12;
             this.nombreClientePedidoLabel.Text = "____________________";
             // 
             // cedulaClientePedidoLabel
             // 
             this.cedulaClientePedidoLabel.BackColor = System.Drawing.Color.Transparent;
-            this.cedulaClientePedidoLabel.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.cedulaClientePedidoLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.cedulaClientePedidoLabel.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.cedulaClientePedidoLabel.Location = new System.Drawing.Point(239, 57);
             this.cedulaClientePedidoLabel.Name = "cedulaClientePedidoLabel";
-            this.cedulaClientePedidoLabel.Size = new System.Drawing.Size(143, 23);
+            this.cedulaClientePedidoLabel.Size = new System.Drawing.Size(183, 20);
             this.cedulaClientePedidoLabel.TabIndex = 11;
             this.cedulaClientePedidoLabel.Text = "____________________";
             // 
             // guna2HtmlLabel5
             // 
             this.guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel5.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2HtmlLabel5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2HtmlLabel5.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel5.Location = new System.Drawing.Point(128, 170);
             this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
-            this.guna2HtmlLabel5.Size = new System.Drawing.Size(93, 23);
+            this.guna2HtmlLabel5.Size = new System.Drawing.Size(99, 20);
             this.guna2HtmlLabel5.TabIndex = 10;
             this.guna2HtmlLabel5.Text = "Telf. Celular:";
             // 
             // guna2HtmlLabel4
             // 
             this.guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel4.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2HtmlLabel4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2HtmlLabel4.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel4.Location = new System.Drawing.Point(127, 141);
             this.guna2HtmlLabel4.Name = "guna2HtmlLabel4";
-            this.guna2HtmlLabel4.Size = new System.Drawing.Size(55, 23);
+            this.guna2HtmlLabel4.Size = new System.Drawing.Size(61, 20);
             this.guna2HtmlLabel4.TabIndex = 9;
             this.guna2HtmlLabel4.Text = "Correo:";
             // 
             // guna2HtmlLabel3
             // 
             this.guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel3.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2HtmlLabel3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2HtmlLabel3.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel3.Location = new System.Drawing.Point(128, 115);
             this.guna2HtmlLabel3.Name = "guna2HtmlLabel3";
-            this.guna2HtmlLabel3.Size = new System.Drawing.Size(66, 23);
+            this.guna2HtmlLabel3.Size = new System.Drawing.Size(67, 20);
             this.guna2HtmlLabel3.TabIndex = 8;
             this.guna2HtmlLabel3.Text = "Apellido:";
             // 
             // guna2HtmlLabel2
             // 
             this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel2.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.guna2HtmlLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2HtmlLabel2.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.guna2HtmlLabel2.Location = new System.Drawing.Point(127, 86);
             this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            this.guna2HtmlLabel2.Size = new System.Drawing.Size(63, 23);
+            this.guna2HtmlLabel2.Size = new System.Drawing.Size(68, 20);
             this.guna2HtmlLabel2.TabIndex = 6;
             this.guna2HtmlLabel2.Text = "Nombre:";
             // 
@@ -552,7 +552,7 @@ namespace Sistema.Interfaces_Módulos
             this.guna2GroupBox1.Controls.Add(this.gdvPedidos);
             this.guna2GroupBox1.CustomBorderColor = System.Drawing.Color.DarkSlateGray;
             this.guna2GroupBox1.FillColor = System.Drawing.SystemColors.Menu;
-            this.guna2GroupBox1.Font = new System.Drawing.Font("Raleway Black", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2GroupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2GroupBox1.ForeColor = System.Drawing.Color.White;
             this.guna2GroupBox1.Location = new System.Drawing.Point(562, 105);
             this.guna2GroupBox1.Name = "guna2GroupBox1";
@@ -564,31 +564,31 @@ namespace Sistema.Interfaces_Módulos
             // 
             // gdvPedidos
             // 
-            dataGridViewCellStyle13.BackColor = System.Drawing.Color.White;
-            this.gdvPedidos.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle13;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
+            this.gdvPedidos.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.gdvPedidos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.gdvPedidos.BackgroundColor = System.Drawing.SystemColors.Menu;
             this.gdvPedidos.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.gdvPedidos.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
             this.gdvPedidos.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle14.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle14.Font = new System.Drawing.Font("Raleway Black", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle14.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle14.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle14.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle14.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.gdvPedidos.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle14;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.gdvPedidos.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.gdvPedidos.ColumnHeadersHeight = 25;
             this.gdvPedidos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
-            dataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle15.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle15.Font = new System.Drawing.Font("Raleway", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle15.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            dataGridViewCellStyle15.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            dataGridViewCellStyle15.SelectionForeColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle15.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.gdvPedidos.DefaultCellStyle = dataGridViewCellStyle15;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.gdvPedidos.DefaultCellStyle = dataGridViewCellStyle3;
             this.gdvPedidos.EnableHeadersVisualStyles = false;
             this.gdvPedidos.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.gdvPedidos.Location = new System.Drawing.Point(0, 40);
@@ -609,14 +609,14 @@ namespace Sistema.Interfaces_Módulos
             this.gdvPedidos.ThemeStyle.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.gdvPedidos.ThemeStyle.HeaderStyle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
             this.gdvPedidos.ThemeStyle.HeaderStyle.BorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            this.gdvPedidos.ThemeStyle.HeaderStyle.Font = new System.Drawing.Font("Raleway Black", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gdvPedidos.ThemeStyle.HeaderStyle.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gdvPedidos.ThemeStyle.HeaderStyle.ForeColor = System.Drawing.Color.White;
             this.gdvPedidos.ThemeStyle.HeaderStyle.HeaightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.gdvPedidos.ThemeStyle.HeaderStyle.Height = 25;
             this.gdvPedidos.ThemeStyle.ReadOnly = true;
             this.gdvPedidos.ThemeStyle.RowsStyle.BackColor = System.Drawing.Color.White;
             this.gdvPedidos.ThemeStyle.RowsStyle.BorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
-            this.gdvPedidos.ThemeStyle.RowsStyle.Font = new System.Drawing.Font("Raleway", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gdvPedidos.ThemeStyle.RowsStyle.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gdvPedidos.ThemeStyle.RowsStyle.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.gdvPedidos.ThemeStyle.RowsStyle.Height = 22;
             this.gdvPedidos.ThemeStyle.RowsStyle.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
@@ -625,11 +625,11 @@ namespace Sistema.Interfaces_Módulos
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Raleway", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.label6.ForeColor = System.Drawing.Color.DarkSlateGray;
             this.label6.Location = new System.Drawing.Point(563, 80);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(77, 21);
+            this.label6.Size = new System.Drawing.Size(82, 18);
             this.label6.TabIndex = 48;
             this.label6.Text = "Refrescar";
             // 
@@ -646,7 +646,7 @@ namespace Sistema.Interfaces_Módulos
             this.numIdentifiacionConsultaPedidoTextBox.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.numIdentifiacionConsultaPedidoTextBox.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.numIdentifiacionConsultaPedidoTextBox.FocusedState.Parent = this.numIdentifiacionConsultaPedidoTextBox;
-            this.numIdentifiacionConsultaPedidoTextBox.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Bold);
+            this.numIdentifiacionConsultaPedidoTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold);
             this.numIdentifiacionConsultaPedidoTextBox.ForeColor = System.Drawing.Color.Black;
             this.numIdentifiacionConsultaPedidoTextBox.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.numIdentifiacionConsultaPedidoTextBox.HoverState.Parent = this.numIdentifiacionConsultaPedidoTextBox;
@@ -726,8 +726,9 @@ namespace Sistema.Interfaces_Módulos
             this.Controls.Add(this.guna2HtmlLabel1);
             this.Location = new System.Drawing.Point(310, 194);
             this.Name = "Pedidos";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Pedidos";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Pedidos_FormClosing);
             this.Load += new System.EventHandler(this.Pedidos_Load);
             this.guna2GroupBox3.ResumeLayout(false);
             this.guna2GroupBox3.PerformLayout();

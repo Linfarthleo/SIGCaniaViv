@@ -154,5 +154,9 @@ namespace Sistema.Interfaces_Módulos
         {
 
         }
+
+        private void Facturacion_FormClosing(object sender, FormClosingEventArgs e)
+        {
+        }
     }
 }

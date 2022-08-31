@@ -52,11 +52,14 @@ namespace Sistema
             // 
             // guna2PictureBox1
             // 
+            this.guna2PictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2PictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.Image")));
             this.guna2PictureBox1.Location = new System.Drawing.Point(0, 0);
             this.guna2PictureBox1.Name = "guna2PictureBox1";
             this.guna2PictureBox1.ShadowDecoration.Parent = this.guna2PictureBox1;
-            this.guna2PictureBox1.Size = new System.Drawing.Size(1166, 616);
+            this.guna2PictureBox1.Size = new System.Drawing.Size(1300, 585);
             this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.guna2PictureBox1.TabIndex = 0;
             this.guna2PictureBox1.TabStop = false;
@@ -67,13 +70,13 @@ namespace Sistema
             this.btnClientes.CheckedState.Parent = this.btnClientes;
             this.btnClientes.CustomImages.Parent = this.btnClientes;
             this.btnClientes.FillColor = System.Drawing.Color.DarkSlateGray;
-            this.btnClientes.Font = new System.Drawing.Font("Raleway", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClientes.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClientes.ForeColor = System.Drawing.Color.White;
             this.btnClientes.HoverState.Parent = this.btnClientes;
-            this.btnClientes.Location = new System.Drawing.Point(330, 1);
+            this.btnClientes.Location = new System.Drawing.Point(339, 0);
             this.btnClientes.Name = "btnClientes";
             this.btnClientes.ShadowDecoration.Parent = this.btnClientes;
-            this.btnClientes.Size = new System.Drawing.Size(167, 73);
+            this.btnClientes.Size = new System.Drawing.Size(120, 64);
             this.btnClientes.TabIndex = 1;
             this.btnClientes.Text = "Clientes";
             this.btnClientes.Visible = false;
@@ -85,13 +88,14 @@ namespace Sistema
             this.btn_VentasYFact.CheckedState.Parent = this.btn_VentasYFact;
             this.btn_VentasYFact.CustomImages.Parent = this.btn_VentasYFact;
             this.btn_VentasYFact.FillColor = System.Drawing.Color.DarkSlateGray;
-            this.btn_VentasYFact.Font = new System.Drawing.Font("Raleway", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_VentasYFact.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_VentasYFact.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.btn_VentasYFact.HoverState.Parent = this.btn_VentasYFact;
-            this.btn_VentasYFact.Location = new System.Drawing.Point(175, 1);
+            this.btn_VentasYFact.ImageSize = new System.Drawing.Size(10, 10);
+            this.btn_VentasYFact.Location = new System.Drawing.Point(191, 0);
             this.btn_VentasYFact.Name = "btn_VentasYFact";
             this.btn_VentasYFact.ShadowDecoration.Parent = this.btn_VentasYFact;
-            this.btn_VentasYFact.Size = new System.Drawing.Size(158, 73);
+            this.btn_VentasYFact.Size = new System.Drawing.Size(152, 64);
             this.btn_VentasYFact.TabIndex = 2;
             this.btn_VentasYFact.Text = "Ventas y Facturación";
             this.btn_VentasYFact.Click += new System.EventHandler(this.btn_Ventas_Click);
@@ -101,13 +105,13 @@ namespace Sistema
             this.btnProduccion.CheckedState.Parent = this.btnProduccion;
             this.btnProduccion.CustomImages.Parent = this.btnProduccion;
             this.btnProduccion.FillColor = System.Drawing.Color.DarkSlateGray;
-            this.btnProduccion.Font = new System.Drawing.Font("Raleway", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProduccion.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnProduccion.ForeColor = System.Drawing.Color.White;
             this.btnProduccion.HoverState.Parent = this.btnProduccion;
-            this.btnProduccion.Location = new System.Drawing.Point(497, 1);
+            this.btnProduccion.Location = new System.Drawing.Point(455, 1);
             this.btnProduccion.Name = "btnProduccion";
             this.btnProduccion.ShadowDecoration.Parent = this.btnProduccion;
-            this.btnProduccion.Size = new System.Drawing.Size(159, 74);
+            this.btnProduccion.Size = new System.Drawing.Size(137, 64);
             this.btnProduccion.TabIndex = 3;
             this.btnProduccion.Text = "Producción";
             this.btnProduccion.Visible = false;
@@ -127,7 +131,7 @@ namespace Sistema
             this.btnVenta.CustomImages.Parent = this.btnVenta;
             this.btnVenta.FillColor = System.Drawing.Color.SeaGreen;
             this.btnVenta.FillColor2 = System.Drawing.Color.DarkSlateGray;
-            this.btnVenta.Font = new System.Drawing.Font("Raleway", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVenta.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVenta.ForeColor = System.Drawing.Color.White;
             this.btnVenta.HoverState.Parent = this.btnVenta;
             this.btnVenta.Location = new System.Drawing.Point(0, 180);
@@ -144,7 +148,7 @@ namespace Sistema
             this.btnFacturacion.CustomImages.Parent = this.btnFacturacion;
             this.btnFacturacion.FillColor = System.Drawing.Color.SeaGreen;
             this.btnFacturacion.FillColor2 = System.Drawing.Color.DarkSlateGray;
-            this.btnFacturacion.Font = new System.Drawing.Font("Raleway", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFacturacion.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnFacturacion.ForeColor = System.Drawing.Color.White;
             this.btnFacturacion.HoverState.Parent = this.btnFacturacion;
             this.btnFacturacion.Location = new System.Drawing.Point(0, 244);
@@ -161,7 +165,7 @@ namespace Sistema
             this.btnPedidos.CustomImages.Parent = this.btnPedidos;
             this.btnPedidos.FillColor = System.Drawing.Color.SeaGreen;
             this.btnPedidos.FillColor2 = System.Drawing.Color.DarkSlateGray;
-            this.btnPedidos.Font = new System.Drawing.Font("Raleway", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPedidos.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPedidos.ForeColor = System.Drawing.Color.White;
             this.btnPedidos.HoverState.Parent = this.btnPedidos;
             this.btnPedidos.Location = new System.Drawing.Point(0, 305);
@@ -194,7 +198,7 @@ namespace Sistema
             this.btnProducto.CustomImages.Parent = this.btnProducto;
             this.btnProducto.FillColor = System.Drawing.Color.SeaGreen;
             this.btnProducto.FillColor2 = System.Drawing.Color.DarkSlateGray;
-            this.btnProducto.Font = new System.Drawing.Font("Raleway", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProducto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnProducto.ForeColor = System.Drawing.Color.White;
             this.btnProducto.HoverState.Parent = this.btnProducto;
             this.btnProducto.Location = new System.Drawing.Point(-1, 0);
@@ -211,7 +215,7 @@ namespace Sistema
             this.btnSiembra.CustomImages.Parent = this.btnSiembra;
             this.btnSiembra.FillColor = System.Drawing.Color.SeaGreen;
             this.btnSiembra.FillColor2 = System.Drawing.Color.DarkSlateGray;
-            this.btnSiembra.Font = new System.Drawing.Font("Raleway", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSiembra.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSiembra.ForeColor = System.Drawing.Color.White;
             this.btnSiembra.HoverState.Parent = this.btnSiembra;
             this.btnSiembra.Location = new System.Drawing.Point(-1, 65);
@@ -226,13 +230,13 @@ namespace Sistema
             this.btnEmpleados.CheckedState.Parent = this.btnEmpleados;
             this.btnEmpleados.CustomImages.Parent = this.btnEmpleados;
             this.btnEmpleados.FillColor = System.Drawing.Color.DarkSlateGray;
-            this.btnEmpleados.Font = new System.Drawing.Font("Raleway", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEmpleados.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEmpleados.ForeColor = System.Drawing.Color.White;
             this.btnEmpleados.HoverState.Parent = this.btnEmpleados;
-            this.btnEmpleados.Location = new System.Drawing.Point(653, 0);
+            this.btnEmpleados.Location = new System.Drawing.Point(589, 1);
             this.btnEmpleados.Name = "btnEmpleados";
             this.btnEmpleados.ShadowDecoration.Parent = this.btnEmpleados;
-            this.btnEmpleados.Size = new System.Drawing.Size(163, 74);
+            this.btnEmpleados.Size = new System.Drawing.Size(133, 65);
             this.btnEmpleados.TabIndex = 12;
             this.btnEmpleados.Text = "Empleados";
             this.btnEmpleados.Visible = false;
@@ -243,13 +247,13 @@ namespace Sistema
             this.guna2Button1.CheckedState.Parent = this.guna2Button1;
             this.guna2Button1.CustomImages.Parent = this.guna2Button1;
             this.guna2Button1.FillColor = System.Drawing.Color.DarkSlateGray;
-            this.guna2Button1.Font = new System.Drawing.Font("Raleway", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2Button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
             this.guna2Button1.HoverState.Parent = this.guna2Button1;
-            this.guna2Button1.Location = new System.Drawing.Point(812, 0);
+            this.guna2Button1.Location = new System.Drawing.Point(714, 1);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.ShadowDecoration.Parent = this.guna2Button1;
-            this.guna2Button1.Size = new System.Drawing.Size(164, 74);
+            this.guna2Button1.Size = new System.Drawing.Size(149, 65);
             this.guna2Button1.TabIndex = 16;
             this.guna2Button1.Text = "Administración de sistema";
             this.guna2Button1.Visible = false;
@@ -276,7 +280,7 @@ namespace Sistema
             this.bunifuImageButton1.ImageSize = new System.Drawing.Size(41, 36);
             this.bunifuImageButton1.ImageZoomSize = new System.Drawing.Size(61, 56);
             this.bunifuImageButton1.InitialImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton1.InitialImage")));
-            this.bunifuImageButton1.Location = new System.Drawing.Point(1318, -1);
+            this.bunifuImageButton1.Location = new System.Drawing.Point(930, 9);
             this.bunifuImageButton1.Margin = new System.Windows.Forms.Padding(0);
             this.bunifuImageButton1.Name = "bunifuImageButton1";
             this.bunifuImageButton1.Rotation = 0;
@@ -290,6 +294,7 @@ namespace Sistema
             this.bunifuImageButton1.WaitOnLoad = false;
             this.bunifuImageButton1.Zoom = 20;
             this.bunifuImageButton1.ZoomSpeed = 10;
+            this.bunifuImageButton1.Click += new System.EventHandler(this.bunifuImageButton1_Click);
             // 
             // bunifuImageButton2
             // 
@@ -302,6 +307,7 @@ namespace Sistema
             this.bunifuImageButton2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.bunifuImageButton2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton2.BackgroundImage")));
             this.bunifuImageButton2.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.bunifuImageButton2.Enabled = false;
             this.bunifuImageButton2.ErrorImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton2.ErrorImage")));
             this.bunifuImageButton2.FadeWhenInactive = false;
             this.bunifuImageButton2.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
@@ -312,7 +318,7 @@ namespace Sistema
             this.bunifuImageButton2.ImageSize = new System.Drawing.Size(38, 35);
             this.bunifuImageButton2.ImageZoomSize = new System.Drawing.Size(58, 55);
             this.bunifuImageButton2.InitialImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton2.InitialImage")));
-            this.bunifuImageButton2.Location = new System.Drawing.Point(1260, 0);
+            this.bunifuImageButton2.Location = new System.Drawing.Point(869, 9);
             this.bunifuImageButton2.Name = "bunifuImageButton2";
             this.bunifuImageButton2.Rotation = 0;
             this.bunifuImageButton2.ShowActiveImage = true;
@@ -346,17 +352,17 @@ namespace Sistema
             this.btnLogout.ImageActive = null;
             this.btnLogout.ImageLocation = null;
             this.btnLogout.ImageMargin = 20;
-            this.btnLogout.ImageSize = new System.Drawing.Size(185, 61);
-            this.btnLogout.ImageZoomSize = new System.Drawing.Size(205, 81);
+            this.btnLogout.ImageSize = new System.Drawing.Size(138, 39);
+            this.btnLogout.ImageZoomSize = new System.Drawing.Size(158, 59);
             this.btnLogout.InitialImage = ((System.Drawing.Image)(resources.GetObject("btnLogout.InitialImage")));
-            this.btnLogout.Location = new System.Drawing.Point(1, 707);
+            this.btnLogout.Location = new System.Drawing.Point(28, 526);
             this.btnLogout.Name = "btnLogout";
             this.btnLogout.Rotation = 0;
             this.btnLogout.ShowActiveImage = true;
             this.btnLogout.ShowCursorChanges = true;
             this.btnLogout.ShowImageBorders = true;
             this.btnLogout.ShowSizeMarkers = false;
-            this.btnLogout.Size = new System.Drawing.Size(205, 81);
+            this.btnLogout.Size = new System.Drawing.Size(158, 59);
             this.btnLogout.TabIndex = 19;
             this.btnLogout.ToolTipText = "";
             this.btnLogout.WaitOnLoad = false;
@@ -366,9 +372,10 @@ namespace Sistema
             // 
             // Menu
             // 
+            this.AccessibleName = "Cañaveral Vivas";
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1164, 615);
+            this.ClientSize = new System.Drawing.Size(1000, 600);
             this.Controls.Add(this.btnVenta);
             this.Controls.Add(this.btnFacturacion);
             this.Controls.Add(this.btnLogout);
@@ -386,7 +393,7 @@ namespace Sistema
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Cañaveral Vivas";
             this.Load += new System.EventHandler(this.Menu_Load);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.submenuProduccion.ResumeLayout(false);

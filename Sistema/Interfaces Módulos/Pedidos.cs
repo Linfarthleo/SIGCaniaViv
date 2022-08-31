@@ -496,6 +496,10 @@ namespace Sistema.Interfaces_Módulos
 
         }
 
+        private void Pedidos_FormClosing(object sender, FormClosingEventArgs e)
+        {
+        }
+
         private void btn_ActualizarPedido_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show("¿Está seguro de cambiar el estado del pedido a entregado?", "Advertencia", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);

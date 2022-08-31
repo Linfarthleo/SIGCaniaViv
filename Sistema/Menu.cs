@@ -57,13 +57,8 @@ namespace Sistema
 
         private void btnProduccion_Click_1(object sender, EventArgs e)
         {
-
-
-
             submenuVentas.Visible = false;
             submenuProduccion.Visible = true;
-
-
         }
 
         private void btnFacturacion_Click(object sender, EventArgs e)
@@ -124,6 +119,11 @@ namespace Sistema
         private void Menu_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void bunifuImageButton1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
