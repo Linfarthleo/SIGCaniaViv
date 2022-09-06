@@ -16,7 +16,19 @@ namespace Sistema.Interfaces_Módulos
 
         private void guna2ImageButton1_Click(object sender, EventArgs e)
         {
+            Factura ventasfac = new Factura();
 
+            //ventasfac.Nombres = nombreClienteVentasLabel.Text;
+           // ventasfac.Identificacion = cedulaClienteVentaLabel.Text;
+            // ventasfac.IDFact = nombreClienteVentasLabel.Text; //
+            //ventasfac.Telefono = celuClienteVentasLabel.Text;
+           // ventasfac.Correo = correoClienteVentasLabel.Text;
+           // if (formaDePagoComboBox.SelectedIndex == -1)
+           //     ventasfac.Section = "";
+           // else
+           //     ventasfac.Section = formaDePagoComboBox.SelectedItem.ToString();
+
+            ventasfac.ShowDialog();
         }
 
         private void guna2TextBox1_KeyPress(object sender, KeyPressEventArgs e)

@@ -268,6 +268,10 @@
     <Compile Include="Interfaces Módulos\Empleados.Designer.cs">
       <DependentUpon>Empleados.cs</DependentUpon>
     </Compile>
+    <Compile Include="Interfaces Módulos\Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaces Módulos\Factura.Designer.cs" />
     <Compile Include="Interfaces Módulos\Facturacion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -367,6 +371,7 @@
     <EmbeddedResource Include="Interfaces Módulos\Empleados.resx">
       <DependentUpon>Empleados.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Interfaces Módulos\Factura.resx" />
     <EmbeddedResource Include="Interfaces Módulos\Facturacion.resx">
       <DependentUpon>Facturacion.cs</DependentUpon>
     </EmbeddedResource>
