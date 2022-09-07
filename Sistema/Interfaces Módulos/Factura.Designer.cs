@@ -32,6 +32,11 @@ namespace Sistema.Interfaces_Módulos
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Factura));
             this.panelPrint = new System.Windows.Forms.Panel();
+            this.facturaPrecioTotal = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.facturaPrecioUnitario = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.facturaGrado = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.facturaMedida = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.facturaCant = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.facturaForma = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.facturaFecha = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.facturaTotal = new Guna.UI2.WinForms.Guna2HtmlLabel();
@@ -39,22 +44,20 @@ namespace Sistema.Interfaces_Módulos
             this.facturaIdentificacion = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.facturaTelefono = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.facturaCorreo = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.facturaNombre = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.btnPrint = new Guna.UI2.WinForms.Guna2Button();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.printDocument1 = new System.Drawing.Printing.PrintDocument();
             this.printPreviewDialog1 = new System.Windows.Forms.PrintPreviewDialog();
-            this.facturaCant = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.facturaMedida = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.facturaGrado = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.facturaPrecioUnitario = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.facturaPrecioTotal = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.facturaEstado = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.facturaNombre = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.panelPrint.SuspendLayout();
             this.SuspendLayout();
             // 
             // panelPrint
             // 
             this.panelPrint.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panelPrint.BackgroundImage")));
+            this.panelPrint.Controls.Add(this.facturaEstado);
+            this.panelPrint.Controls.Add(this.btnPrint);
             this.panelPrint.Controls.Add(this.facturaPrecioTotal);
             this.panelPrint.Controls.Add(this.facturaPrecioUnitario);
             this.panelPrint.Controls.Add(this.facturaGrado);
@@ -68,11 +71,64 @@ namespace Sistema.Interfaces_Módulos
             this.panelPrint.Controls.Add(this.facturaTelefono);
             this.panelPrint.Controls.Add(this.facturaCorreo);
             this.panelPrint.Controls.Add(this.facturaNombre);
-            this.panelPrint.Location = new System.Drawing.Point(0, 56);
+            this.panelPrint.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelPrint.Location = new System.Drawing.Point(0, 0);
             this.panelPrint.Name = "panelPrint";
-            this.panelPrint.Size = new System.Drawing.Size(672, 839);
+            this.panelPrint.Size = new System.Drawing.Size(673, 749);
             this.panelPrint.TabIndex = 0;
             this.panelPrint.Paint += new System.Windows.Forms.PaintEventHandler(this.panelPrint_Paint);
+            // 
+            // facturaPrecioTotal
+            // 
+            this.facturaPrecioTotal.BackColor = System.Drawing.Color.Transparent;
+            this.facturaPrecioTotal.Font = new System.Drawing.Font("Bahnschrift", 12F);
+            this.facturaPrecioTotal.Location = new System.Drawing.Point(521, 344);
+            this.facturaPrecioTotal.Name = "facturaPrecioTotal";
+            this.facturaPrecioTotal.Size = new System.Drawing.Size(17, 21);
+            this.facturaPrecioTotal.TabIndex = 12;
+            this.facturaPrecioTotal.Text = "10";
+            // 
+            // facturaPrecioUnitario
+            // 
+            this.facturaPrecioUnitario.BackColor = System.Drawing.Color.Transparent;
+            this.facturaPrecioUnitario.Font = new System.Drawing.Font("Bahnschrift", 12F);
+            this.facturaPrecioUnitario.Location = new System.Drawing.Point(367, 344);
+            this.facturaPrecioUnitario.Name = "facturaPrecioUnitario";
+            this.facturaPrecioUnitario.Size = new System.Drawing.Size(17, 21);
+            this.facturaPrecioUnitario.TabIndex = 11;
+            this.facturaPrecioUnitario.Text = "10";
+            this.facturaPrecioUnitario.Click += new System.EventHandler(this.guna2HtmlLabel4_Click);
+            // 
+            // facturaGrado
+            // 
+            this.facturaGrado.BackColor = System.Drawing.Color.Transparent;
+            this.facturaGrado.Font = new System.Drawing.Font("Bahnschrift", 12F);
+            this.facturaGrado.Location = new System.Drawing.Point(245, 344);
+            this.facturaGrado.Name = "facturaGrado";
+            this.facturaGrado.Size = new System.Drawing.Size(17, 21);
+            this.facturaGrado.TabIndex = 10;
+            this.facturaGrado.Text = "10";
+            // 
+            // facturaMedida
+            // 
+            this.facturaMedida.BackColor = System.Drawing.Color.Transparent;
+            this.facturaMedida.Font = new System.Drawing.Font("Bahnschrift", 12F);
+            this.facturaMedida.Location = new System.Drawing.Point(129, 344);
+            this.facturaMedida.Name = "facturaMedida";
+            this.facturaMedida.Size = new System.Drawing.Size(45, 21);
+            this.facturaMedida.TabIndex = 9;
+            this.facturaMedida.Text = "Litros";
+            // 
+            // facturaCant
+            // 
+            this.facturaCant.BackColor = System.Drawing.Color.Transparent;
+            this.facturaCant.Font = new System.Drawing.Font("Bahnschrift", 12F);
+            this.facturaCant.Location = new System.Drawing.Point(77, 344);
+            this.facturaCant.Name = "facturaCant";
+            this.facturaCant.Size = new System.Drawing.Size(17, 21);
+            this.facturaCant.TabIndex = 8;
+            this.facturaCant.Text = "10";
+            this.facturaCant.Click += new System.EventHandler(this.facturaCant_Click);
             // 
             // facturaForma
             // 
@@ -90,9 +146,9 @@ namespace Sistema.Interfaces_Módulos
             this.facturaFecha.Font = new System.Drawing.Font("Bahnschrift", 12F);
             this.facturaFecha.Location = new System.Drawing.Point(145, 23);
             this.facturaFecha.Name = "facturaFecha";
-            this.facturaFecha.Size = new System.Drawing.Size(107, 21);
+            this.facturaFecha.Size = new System.Drawing.Size(123, 21);
             this.facturaFecha.TabIndex = 6;
-            this.facturaFecha.Text = "Kevin Sailema";
+            this.facturaFecha.Text = "---------------";
             // 
             // facturaTotal
             // 
@@ -100,9 +156,9 @@ namespace Sistema.Interfaces_Módulos
             this.facturaTotal.Font = new System.Drawing.Font("Bahnschrift", 12F);
             this.facturaTotal.Location = new System.Drawing.Point(493, 701);
             this.facturaTotal.Name = "facturaTotal";
-            this.facturaTotal.Size = new System.Drawing.Size(107, 21);
+            this.facturaTotal.Size = new System.Drawing.Size(99, 21);
             this.facturaTotal.TabIndex = 5;
-            this.facturaTotal.Text = "Kevin Sailema";
+            this.facturaTotal.Text = "------------";
             // 
             // facturaIdFact
             // 
@@ -120,9 +176,9 @@ namespace Sistema.Interfaces_Módulos
             this.facturaIdentificacion.Font = new System.Drawing.Font("Bahnschrift", 12F);
             this.facturaIdentificacion.Location = new System.Drawing.Point(422, 223);
             this.facturaIdentificacion.Name = "facturaIdentificacion";
-            this.facturaIdentificacion.Size = new System.Drawing.Size(107, 21);
+            this.facturaIdentificacion.Size = new System.Drawing.Size(91, 21);
             this.facturaIdentificacion.TabIndex = 3;
-            this.facturaIdentificacion.Text = "Kevin Sailema";
+            this.facturaIdentificacion.Text = "-----------";
             // 
             // facturaTelefono
             // 
@@ -130,9 +186,9 @@ namespace Sistema.Interfaces_Módulos
             this.facturaTelefono.Font = new System.Drawing.Font("Bahnschrift", 12F);
             this.facturaTelefono.Location = new System.Drawing.Point(288, 204);
             this.facturaTelefono.Name = "facturaTelefono";
-            this.facturaTelefono.Size = new System.Drawing.Size(107, 21);
+            this.facturaTelefono.Size = new System.Drawing.Size(59, 21);
             this.facturaTelefono.TabIndex = 2;
-            this.facturaTelefono.Text = "Kevin Sailema";
+            this.facturaTelefono.Text = "-------";
             // 
             // facturaCorreo
             // 
@@ -140,21 +196,9 @@ namespace Sistema.Interfaces_Módulos
             this.facturaCorreo.Font = new System.Drawing.Font("Bahnschrift", 12F);
             this.facturaCorreo.Location = new System.Drawing.Point(301, 185);
             this.facturaCorreo.Name = "facturaCorreo";
-            this.facturaCorreo.Size = new System.Drawing.Size(107, 21);
+            this.facturaCorreo.Size = new System.Drawing.Size(83, 21);
             this.facturaCorreo.TabIndex = 1;
-            this.facturaCorreo.Text = "Kevin Sailema";
-            // 
-            // facturaNombre
-            // 
-            this.facturaNombre.BackColor = System.Drawing.Color.Transparent;
-            this.facturaNombre.Font = new System.Drawing.Font("Bahnschrift", 12F);
-            this.facturaNombre.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.facturaNombre.Location = new System.Drawing.Point(288, 165);
-            this.facturaNombre.Name = "facturaNombre";
-            this.facturaNombre.Size = new System.Drawing.Size(107, 21);
-            this.facturaNombre.TabIndex = 0;
-            this.facturaNombre.Text = "Kevin Sailema";
-            this.facturaNombre.Click += new System.EventHandler(this.facturaNombre_Click);
+            this.facturaCorreo.Text = "----------";
             // 
             // btnPrint
             // 
@@ -167,10 +211,10 @@ namespace Sistema.Interfaces_Módulos
             this.btnPrint.HoverState.Parent = this.btnPrint;
             this.btnPrint.Image = global::Sistema.Properties.Resources.icons8_printer_48px;
             this.btnPrint.ImageSize = new System.Drawing.Size(40, 40);
-            this.btnPrint.Location = new System.Drawing.Point(481, 5);
+            this.btnPrint.Location = new System.Drawing.Point(539, 3);
             this.btnPrint.Name = "btnPrint";
             this.btnPrint.ShadowDecoration.Parent = this.btnPrint;
-            this.btnPrint.Size = new System.Drawing.Size(180, 45);
+            this.btnPrint.Size = new System.Drawing.Size(131, 74);
             this.btnPrint.TabIndex = 1;
             this.btnPrint.Text = "Imprimir Nota de Venta";
             this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
@@ -194,66 +238,38 @@ namespace Sistema.Interfaces_Módulos
             this.printPreviewDialog1.Name = "printPreviewDialog1";
             this.printPreviewDialog1.Visible = false;
             // 
-            // facturaCant
+            // facturaEstado
             // 
-            this.facturaCant.BackColor = System.Drawing.Color.Transparent;
-            this.facturaCant.Font = new System.Drawing.Font("Bahnschrift", 12F);
-            this.facturaCant.Location = new System.Drawing.Point(77, 344);
-            this.facturaCant.Name = "facturaCant";
-            this.facturaCant.Size = new System.Drawing.Size(17, 21);
-            this.facturaCant.TabIndex = 8;
-            this.facturaCant.Text = "10";
+            this.facturaEstado.BackColor = System.Drawing.Color.Transparent;
+            this.facturaEstado.Font = new System.Drawing.Font("Bahnschrift", 14F);
+            this.facturaEstado.Location = new System.Drawing.Point(443, 83);
+            this.facturaEstado.Name = "facturaEstado";
+            this.facturaEstado.Size = new System.Drawing.Size(111, 25);
+            this.facturaEstado.TabIndex = 13;
+            this.facturaEstado.Text = "------------";
+            this.facturaEstado.Click += new System.EventHandler(this.guna2HtmlLabel1_Click);
             // 
-            // facturaMedida
+            // facturaNombre
             // 
-            this.facturaMedida.BackColor = System.Drawing.Color.Transparent;
-            this.facturaMedida.Font = new System.Drawing.Font("Bahnschrift", 12F);
-            this.facturaMedida.Location = new System.Drawing.Point(129, 344);
-            this.facturaMedida.Name = "facturaMedida";
-            this.facturaMedida.Size = new System.Drawing.Size(45, 21);
-            this.facturaMedida.TabIndex = 9;
-            this.facturaMedida.Text = "Litros";
-            // 
-            // facturaGrado
-            // 
-            this.facturaGrado.BackColor = System.Drawing.Color.Transparent;
-            this.facturaGrado.Font = new System.Drawing.Font("Bahnschrift", 12F);
-            this.facturaGrado.Location = new System.Drawing.Point(245, 344);
-            this.facturaGrado.Name = "facturaGrado";
-            this.facturaGrado.Size = new System.Drawing.Size(17, 21);
-            this.facturaGrado.TabIndex = 10;
-            this.facturaGrado.Text = "10";
-            // 
-            // facturaPrecioUnitario
-            // 
-            this.facturaPrecioUnitario.BackColor = System.Drawing.Color.Transparent;
-            this.facturaPrecioUnitario.Font = new System.Drawing.Font("Bahnschrift", 12F);
-            this.facturaPrecioUnitario.Location = new System.Drawing.Point(367, 344);
-            this.facturaPrecioUnitario.Name = "facturaPrecioUnitario";
-            this.facturaPrecioUnitario.Size = new System.Drawing.Size(17, 21);
-            this.facturaPrecioUnitario.TabIndex = 11;
-            this.facturaPrecioUnitario.Text = "10";
-            this.facturaPrecioUnitario.Click += new System.EventHandler(this.guna2HtmlLabel4_Click);
-            // 
-            // facturaPrecioTotal
-            // 
-            this.facturaPrecioTotal.BackColor = System.Drawing.Color.Transparent;
-            this.facturaPrecioTotal.Font = new System.Drawing.Font("Bahnschrift", 12F);
-            this.facturaPrecioTotal.Location = new System.Drawing.Point(521, 344);
-            this.facturaPrecioTotal.Name = "facturaPrecioTotal";
-            this.facturaPrecioTotal.Size = new System.Drawing.Size(17, 21);
-            this.facturaPrecioTotal.TabIndex = 12;
-            this.facturaPrecioTotal.Text = "10";
+            this.facturaNombre.BackColor = System.Drawing.Color.Transparent;
+            this.facturaNombre.Font = new System.Drawing.Font("Bahnschrift", 12F);
+            this.facturaNombre.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.facturaNombre.Location = new System.Drawing.Point(288, 165);
+            this.facturaNombre.Name = "facturaNombre";
+            this.facturaNombre.Size = new System.Drawing.Size(75, 21);
+            this.facturaNombre.TabIndex = 0;
+            this.facturaNombre.Text = "---------";
+            this.facturaNombre.Click += new System.EventHandler(this.facturaNombre_Click);
             // 
             // Factura
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(673, 749);
-            this.Controls.Add(this.btnPrint);
             this.Controls.Add(this.panelPrint);
             this.Name = "Factura";
             this.Text = "Factura";
+            this.TopMost = true;
             this.Load += new System.EventHandler(this.Factura_Load);
             this.panelPrint.ResumeLayout(false);
             this.panelPrint.PerformLayout();
@@ -270,7 +286,6 @@ namespace Sistema.Interfaces_Módulos
         private Guna.UI2.WinForms.Guna2HtmlLabel facturaIdentificacion;
         private Guna.UI2.WinForms.Guna2HtmlLabel facturaTelefono;
         private Guna.UI2.WinForms.Guna2HtmlLabel facturaCorreo;
-        private Guna.UI2.WinForms.Guna2HtmlLabel facturaNombre;
         private System.Windows.Forms.ToolTip toolTip1;
         private System.Drawing.Printing.PrintDocument printDocument1;
         private System.Windows.Forms.PrintPreviewDialog printPreviewDialog1;
@@ -281,5 +296,7 @@ namespace Sistema.Interfaces_Módulos
         private Guna.UI2.WinForms.Guna2HtmlLabel facturaGrado;
         private Guna.UI2.WinForms.Guna2HtmlLabel facturaMedida;
         private Guna.UI2.WinForms.Guna2HtmlLabel facturaCant;
+        private Guna.UI2.WinForms.Guna2HtmlLabel facturaEstado;
+        private Guna.UI2.WinForms.Guna2HtmlLabel facturaNombre;
     }
 }

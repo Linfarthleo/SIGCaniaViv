@@ -85,23 +85,46 @@ namespace Sistema.Interfaces_Módulos
 
         private void guna2ImageButton1_Click(object sender, EventArgs e)
         {
-            Factura ventasfac = new Factura();
+            if (auxNotaVenta.IdNota != 0)
 
+            {
+                Factura ventasfac = new Factura();
 
-            ventasfac.IDFact = idNotaDeVentaTextBox.Text;
+                Cliente clienteFacturado = Cliente.obtenerClienteDeNumId(auxNotaVenta.NumIdentificacion);
+                Venta ventaFacturada = Venta.buscarVenta(auxNotaVenta.IdVenta);
+                ventasfac.Date = auxNotaVenta.Fecha.ToString();
+                ventasfac.Nombres = clienteFacturado.Nombres + " " +clienteFacturado.Apellidos;
+                ventasfac.Identificacion = auxNotaVenta.NumIdentificacion;
+                ventasfac.IDFact = auxNotaVenta.IdNota.ToString();
+                ventasfac.Section = ventaFacturada.FormaPago;
+                ventasfac.Telefono = clienteFacturado.Telefonomovil;
+                ventasfac.Correo = clienteFacturado.Correo;
+                ventasfac.CantAlcohol = ventaFacturada.CantAlcoholVendida.ToString();
+                ventasfac.PrecioTotal = "$ "+ventaFacturada.ValorTotal.ToString();
+                ventasfac.Estado = auxNotaVenta.Estado;
+                ventasfac.Medida="Litros";
+                if (ventaFacturada.IdProducto == 1)
+                {
+                    ventasfac.GradoAlcohol = "58°";
+                    ventasfac.PrecioUnitario = "$ 1";
+                }
+                else if (ventaFacturada.IdProducto == 2)
+                {
+                    ventasfac.GradoAlcohol = "65°";
+                    ventasfac.PrecioUnitario = "$ 0.9";
+                }
+                else
+                {
+                    ventasfac.GradoAlcohol = "70°";
+                    ventasfac.PrecioUnitario = "$ 1.3";
+                }
 
-
-            //ventasfac.Nombres = nombreClienteVentasLabel.Text;
-            // ventasfac.Identificacion = cedulaClienteVentaLabel.Text;
-
-            //ventasfac.Telefono = celuClienteVentasLabel.Text;
-            // ventasfac.Correo = correoClienteVentasLabel.Text;
-            // if (formaDePagoComboBox.SelectedIndex == -1)
-            //     ventasfac.Section = "";
-            // else
-            //     ventasfac.Section = formaDePagoComboBox.SelectedItem.ToString();
-
-            ventasfac.ShowDialog();
+                ventasfac.ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Seleccione una nota de venta a imprimir", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
 
 

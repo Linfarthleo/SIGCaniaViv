@@ -257,7 +257,6 @@ namespace Sistema.Clases
                 {
                     return false;
                 }
-
             }
             return false;
         }
@@ -290,6 +289,5 @@ namespace Sistema.Clases
             }
             return aux;
         }
-
     }
 }

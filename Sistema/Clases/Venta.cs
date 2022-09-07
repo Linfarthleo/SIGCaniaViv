@@ -126,6 +126,39 @@ namespace Sistema.Clases
             }
             return ventas;
         }
+        //--------------------------------------------------------------------------------------------------
+        //------------------------------------------Obtener venta de idVenta----------------------
+        //--------------------------------------------------------------------------------------------------
+        public static Venta buscarVenta(int parametro)
+        {
+            Venta venta = new Venta();
+            ConeccionBD coneccion = new ConeccionBD();
+             
+            
+            String query = "SELECT * from venta where (INSTR(idVenta,@parametro) > 0);";
+            if (coneccion.abrirConeccion())
+            {
+                //Busqueda por cedula
+                MySqlCommand command = new MySqlCommand(query, coneccion.coneccion);
+                command.Parameters.AddWithValue("@parametro", parametro);
+                MySqlDataReader reader = command.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    while (reader.Read())
+                    {
+                        venta.idVenta = Convert.ToInt32(reader["idVenta"]);
+                        venta.numIdentificacion = reader["numIdentificacion"].ToString();
+                        venta.idProducto = Convert.ToInt32(reader["idProducto"]);
+                        venta.cantAlcoholVendida = float.Parse(reader["cantAlcoholVendida"].ToString());
+                        venta.valorTotal = float.Parse(reader["valorTotal"].ToString());
+                        venta.formaPago = reader["formaPago"].ToString();
+                        venta.fecha = Convert.ToDateTime(reader["fecha"]).Date;
+                    }
+                }
+                coneccion.cerrarConeccion();
+            }
+            return venta;
+        }
 
         //--------------------------------------------------------------------------------------------------
         //----------------------------------Buscar ultima venta para id-------------------

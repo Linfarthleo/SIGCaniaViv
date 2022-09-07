@@ -15,7 +15,8 @@ namespace Sistema.Interfaces_Módulos
     public partial class Factura : Form
     {
 
-        public string Date, Nombres, Identificacion, Direccion, IDFact, Telefono, Correo, Section;
+        public string Date, Nombres, Identificacion, Direccion, IDFact, Telefono, Correo, Section, Estado;
+        public string CantAlcohol, Medida, GradoAlcohol, PrecioUnitario, PrecioTotal;
 
         public Image img = null;
         public Factura()
@@ -41,6 +42,11 @@ namespace Sistema.Interfaces_Módulos
             e.Graphics.DrawImage(memoryimg, (pagearea.Width / 2) - (this.panelPrint.Width / 2), this.panelPrint.Location.Y);
         }
 
+        private void guna2HtmlLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void toolTip1_Popup(object sender, PopupEventArgs e)
         {
 
@@ -52,6 +58,11 @@ namespace Sistema.Interfaces_Módulos
         }
 
         private void guna2HtmlLabel4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void facturaCant_Click(object sender, EventArgs e)
         {
 
         }
@@ -85,14 +96,18 @@ namespace Sistema.Interfaces_Módulos
             facturaFecha.Text = Date;
             facturaNombre.Text = Nombres;
             facturaIdentificacion.Text = Identificacion;
-            facturaNombre.Text = Direccion;
+            facturaCorreo.Text = Direccion;
             facturaIdFact.Text = IDFact;
             facturaTelefono.Text = Telefono;
             facturaCorreo.Text = Correo;       
             facturaForma.Text = Section;
-
-
-
+            facturaCant.Text = CantAlcohol;
+            facturaMedida.Text = Medida;
+            facturaGrado.Text = GradoAlcohol;
+            facturaPrecioUnitario.Text = PrecioUnitario;
+            facturaPrecioTotal.Text = PrecioTotal;
+            facturaTotal.Text = PrecioTotal;
+            facturaEstado.Text = Estado;
         }
 
         private void panelPrint_Paint(object sender, PaintEventArgs e)
