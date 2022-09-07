@@ -8,28 +8,14 @@ namespace Sistema.Interfaces_Módulos
     public partial class Facturacion : Form
     {
         List<NotaVenta> auxlistNota = new List<NotaVenta>();
+        NotaVenta auxNotaVenta = new NotaVenta();
         public Facturacion()
         {
             InitializeComponent();
             auxlistNota = NotaVenta.listadoNotas();
         }
 
-        private void guna2ImageButton1_Click(object sender, EventArgs e)
-        {
-            Factura ventasfac = new Factura();
-
-            //ventasfac.Nombres = nombreClienteVentasLabel.Text;
-           // ventasfac.Identificacion = cedulaClienteVentaLabel.Text;
-            // ventasfac.IDFact = nombreClienteVentasLabel.Text; //
-            //ventasfac.Telefono = celuClienteVentasLabel.Text;
-           // ventasfac.Correo = correoClienteVentasLabel.Text;
-           // if (formaDePagoComboBox.SelectedIndex == -1)
-           //     ventasfac.Section = "";
-           // else
-           //     ventasfac.Section = formaDePagoComboBox.SelectedItem.ToString();
-
-            ventasfac.ShowDialog();
-        }
+        
 
         private void guna2TextBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
@@ -97,22 +83,51 @@ namespace Sistema.Interfaces_Módulos
 
 
 
+        private void guna2ImageButton1_Click(object sender, EventArgs e)
+        {
+            Factura ventasfac = new Factura();
 
+
+            ventasfac.IDFact = idNotaDeVentaTextBox.Text;
+
+
+            //ventasfac.Nombres = nombreClienteVentasLabel.Text;
+            // ventasfac.Identificacion = cedulaClienteVentaLabel.Text;
+
+            //ventasfac.Telefono = celuClienteVentasLabel.Text;
+            // ventasfac.Correo = correoClienteVentasLabel.Text;
+            // if (formaDePagoComboBox.SelectedIndex == -1)
+            //     ventasfac.Section = "";
+            // else
+            //     ventasfac.Section = formaDePagoComboBox.SelectedItem.ToString();
+
+            ventasfac.ShowDialog();
+        }
 
 
 
 
         private void guna2ImageButton2_Click(object sender, EventArgs e)
         {
+
             DialogResult result = MessageBox.Show("¿Está seguro de anular la nota de venta?", "Advertencia", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
             if (result == DialogResult.OK)
             {
-                NotaVenta.anularFactura(Convert.ToInt32(idNotaDeVentaTextBox.Text));
-                int a = Venta.consultarIdProductoventa(idNotaDeVentaTextBox.Text);
-                float b = Venta.consultarCantidadDeAlcoholDeVenta(idNotaDeVentaTextBox.Text);
-                float c = Producto.consultarCantidadDeProductoAEditar(a.ToString());
-                Producto.actualizarCantidad(a,(c+b));
-                dgvNotasDeVenta.DataSource = NotaVenta.listadoNotas();
+                if (auxNotaVenta.IdNota != 0)
+
+                {
+                    NotaVenta.anularFactura(auxNotaVenta);
+                    int a = Venta.consultarIdProductoventa(idNotaDeVentaTextBox.Text);
+                    float b = Venta.consultarCantidadDeAlcoholDeVenta(idNotaDeVentaTextBox.Text);
+                    float c = Producto.consultarCantidadDeProductoAEditar(a.ToString());
+                    Producto.actualizarCantidad(a, (c + b));
+                    dgvNotasDeVenta.DataSource = NotaVenta.listadoNotas();
+                }
+                else
+                {
+                    MessageBox.Show("Seleccione una nota de venta a anular", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+               
             }
             else {
                 MessageBox.Show("No se ha podido eliminar la nota de venta", "Advertencia", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
@@ -169,6 +184,15 @@ namespace Sistema.Interfaces_Módulos
 
         private void Facturacion_FormClosing(object sender, FormClosingEventArgs e)
         {
+        }
+
+        private void dgvNotasDeVenta_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            try
+            {
+                auxNotaVenta = auxlistNota[e.RowIndex];
+            }
+            catch (Exception ex) { }
         }
     }
 }

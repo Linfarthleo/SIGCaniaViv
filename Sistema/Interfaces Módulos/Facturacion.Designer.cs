@@ -188,6 +188,7 @@ namespace Sistema.Interfaces_Módulos
             this.dgvNotasDeVenta.ThemeStyle.RowsStyle.Height = 22;
             this.dgvNotasDeVenta.ThemeStyle.RowsStyle.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.dgvNotasDeVenta.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            this.dgvNotasDeVenta.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvNotasDeVenta_CellContentClick);
             // 
             // guna2ImageButton2
             // 
@@ -278,7 +279,6 @@ namespace Sistema.Interfaces_Módulos
             // 
             this.btnImprimir.BackColor = System.Drawing.Color.DarkSlateGray;
             this.btnImprimir.CheckedState.Parent = this.btnImprimir;
-            this.btnImprimir.Enabled = false;
             this.btnImprimir.HoverState.ImageSize = new System.Drawing.Size(72, 72);
             this.btnImprimir.HoverState.Parent = this.btnImprimir;
             this.btnImprimir.Image = global::Sistema.Properties.Resources.icons8_printer_48px;

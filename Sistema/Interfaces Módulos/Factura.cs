@@ -51,6 +51,11 @@ namespace Sistema.Interfaces_Módulos
 
         }
 
+        private void guna2HtmlLabel4_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private Bitmap memoryimg;
         
         private void getprintarea(Panel pnl)

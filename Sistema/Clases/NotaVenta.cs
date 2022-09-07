@@ -151,7 +151,7 @@ namespace Sistema.Clases
         //--------------------------------------------------------------------------------------------------
         //------------------------------------------Anular Factura---------------------------------------
         //--------------------------------------------------------------------------------------------------
-        public static Boolean anularFactura(int idNota)
+        public static Boolean anularFactura(NotaVenta notaVenta)
         {
             ConeccionBD coneccion = new ConeccionBD();
             String query = "UPDATE nota_de_venta SET estado='ANULADA'" +
@@ -160,7 +160,7 @@ namespace Sistema.Clases
             if (coneccion.abrirConeccion())
             {
                 MySqlCommand command = new MySqlCommand(query, coneccion.coneccion);
-                command.Parameters.AddWithValue("@idNota", idNota);
+                command.Parameters.AddWithValue("@idNota", notaVenta.idNota);
 
                 int i = command.ExecuteNonQuery();
                 if (i > 0)
