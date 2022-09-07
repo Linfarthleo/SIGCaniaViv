@@ -752,3 +752,7 @@ C:\Users\leona\Documents\GitHub\SIGCaniaViv\Sistema\bin\Debug\System.Numerics.Ve
 C:\Users\leona\Documents\GitHub\SIGCaniaViv\Sistema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\leona\Documents\GitHub\SIGCaniaViv\Sistema\obj\Debug\Sistema.Interfaces_Módulos.Factura.resources
 C:\Users\leona\Documents\GitHub\SIGCaniaViv\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+C:\Users\leona\Documents\GitHub\SIGCaniaViv\Sistema\bin\Debug\Sistema.exe.manifest
+C:\Users\leona\Documents\GitHub\SIGCaniaViv\Sistema\bin\Debug\Sistema.application
+C:\Users\leona\Documents\GitHub\SIGCaniaViv\Sistema\obj\Debug\Sistema.exe.manifest
+C:\Users\leona\Documents\GitHub\SIGCaniaViv\Sistema\obj\Debug\Sistema.application

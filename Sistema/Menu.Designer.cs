@@ -79,6 +79,7 @@ namespace Sistema
             this.btnClientes.Size = new System.Drawing.Size(120, 64);
             this.btnClientes.TabIndex = 1;
             this.btnClientes.Text = "Clientes";
+            this.btnClientes.Visible = false;
             this.btnClientes.Click += new System.EventHandler(this.btnClientes_Click);
             // 
             // btn_VentasYFact
